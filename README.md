@@ -1,9 +1,9 @@
-# Landing Page Project - Pertamabet88
+# Pertamabet88 - Link Alternatif Pertamabet88
 
-Selamat datang di repositori landing page saya! Proyek ini adalah halaman depan website yang dirancang untuk memberikan informasi produk/layanan secara menarik dan responsif.
+Selamat datang di Link Alternatif Pertamabet88. Situs Judi Online terbaik dengan didukung server luar yang stabil. Pertamabet88 menyediakan beberapa macam fitur game berlisensi Resmi Internasional.
 
 ## 🚀 Fitur Utama
-* **Desain Responsif:** Bisa dibuka di HP maupun laptop dengan rapi.
+* **Desain Responsif:** Bisa dibuka di HP maupun desktop dengan rapi.
 * **Kecepatan Akses:** Menggunakan kode HTML yang ringan.
 * **Navigasi Cepat:** Memudahkan pengunjung menemukan informasi penting.
 
@@ -11,9 +11,9 @@ Selamat datang di repositori landing page saya! Proyek ini adalah halaman depan 
 * **HTML5** - Untuk struktur konten.
 * **CSS3** - Untuk desain dan tampilan (segera hadir/sedang dikembangkan).
 
-## 🌐 Live Demo
+## 🌐 Link Alternatif Pertamabet88
 Anda bisa melihat tampilan live website ini di sini: 
 [https://pertamabet88.github.io/landing-page/](https://pertamabet88.github.io/landing-page/)
 
 ---
-Dibuat dengan semangat oleh [Pertamabet88](https://github.com/Pertamabet88).
+Dibuat oleh [Pertamabet88](https://github.com/Pertamabet88).
